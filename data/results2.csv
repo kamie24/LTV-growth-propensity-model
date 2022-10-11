@@ -1,0 +1,265 @@
+campaignName,group_type,Mean_Probabilities,Count_Cases
+email-oneoff-chicago | int (Multimatch),Internal Engagement,0.5634720863838253,74
+email-reengage-columns | int (Multimatch),Internal Engagement,0.5527326521645406,55
+adroll-general | adroll (Multimatch),Display ,0.5494376982799907,15
+email-one-off-update | Unknown (Multimatch),Unknown,0.5492568982513641,7
+syndication | linkedin (Multimatch),Organic Social Referrals,0.5491768938201664,7
+invite | int (Multimatch),Internal Engagement,0.5490242714567584,10
+email-weekly-dec | int (Multimatch),Internal Engagement,0.5351731116466736,76
+email-oneoff-qualcan | int (Multimatch),Internal Engagement,0.5280986151465349,37
+social | twitter (Multimatch),Organic Social Referrals,0.524357469129813,31
+Referral Visits,Tracked Referrals,0.5180876141251075,349
+email-weekly | int (Multimatch),Internal Engagement,0.499253608966855,32
+Referrals from www.therealestatecrowdfundingreview.com,Tracked Referrals,0.499253608966855,31
+Referrals from www.mtrustcompany.com,Tracked Referrals,0.499253608966855,30
+email-activate-journey | int (Multimatch),Internal Engagement,0.499253608966855,30
+PIMD,PIMD,0.499253608966855,28
+Referrals from forum.therealestatecrowdfundingreview.com,Tracked Referrals,0.499253608966855,28
+adroll (UTM),Display ,0.499253608966855,28
+ppc-branded | bing (Multimatch),SEM (PPC),0.499253608966855,28
+twitter (UTM),Organic Social Referrals,0.499253608966855,27
+survey | int (Multimatch),Internal Engagement,0.499253608966855,26
+DuckDuckGo Search,Organic Search,0.49925360896685494,24
+Referrals from app.intercom.com,Unknown,0.49925360896685494,24
+email | em-app (Multimatch),Email/Newsletter,0.49925360896685494,23
+Referrals from rightsignature.com,Unknown,0.49925360896685494,22
+Referrals from zh.m.wikipedia.org,Tracked Referrals,0.49925360896685494,22
+social | linkedin (Multimatch),Organic Social Referrals,0.49925360896685494,21
+Referrals from secure.alphaflow.com,Tracked Referrals,0.49925360896685494,20
+email-one-off-survey | int (Multimatch),Internal Engagement,0.49925360896685494,20
+activatejourney | int (Multimatch),Internal Engagement,0.49925360896685494,19
+email-oneoff-update | int (Multimatch),Internal Engagement,0.49925360896685494,16
+newsletter | ozones (Multimatch),Email/Newsletter,0.49925360896685494,16
+MSN Search,Organic Search,0.49925360896685494,15
+email-missioncap-fund | int (Multimatch),Internal Engagement,0.49925360896685494,15
+newsletter-1.20 | biggerpockets (Multimatch),Email/Newsletter,0.49925360896685494,15
+Referrals from idealrei.com,Affiliates,0.49925360896685494,14
+Referrals from www.peerstreet.com,Unknown,0.49925360896685494,14
+blog | website (Multimatch),Content,0.49925360896685494,14
+ppc-nonbrand | adwords (Multimatch),SEM (PPC),0.49925360896685494,14
+Referrals from jobs.lever.co,Tracked Referrals,0.4992536089668549,34
+Referrals from www.physicianonfire.com,Affiliates,0.4992536089668549,34
+display | adwords (Multimatch),Display ,0.4992536089668549,34
+email-sreit-monthly | int (Multimatch),Internal Engagement,0.4992536089668549,18
+partners | partnerspage (Multimatch),Unknown,0.4992536089668549,18
+Referrals from www.ncsha.org,Tracked Referrals,0.4992536089668549,17
+affiliate | amp (Multimatch),Affiliates,0.4992536089668549,17
+cpc | google (Multimatch),SEM (PPC),0.4992536089668549,17
+Referrals from www.sidehustlenation.com,Tracked Referrals,0.4992536089668549,13
+affiliate | creditdonkey (Multimatch),Affiliates,0.4992536089668549,13
+continentalpropertiesrem | adroll (Multimatch),Display ,0.4992536089668549,13
+ext ref | em-app (Multimatch),Unknown,0.4992536089668549,13
+retarget-oz | adroll (Multimatch),Display ,0.4992536089668549,13
+search | v2 branded | 9.2.2018 | bing (Multimatch),SEM (PPC),0.4992536089668549,13
+TFN-pinterest,Unknown,0.4992536089668549,12
+email-oneoff | int (Multimatch),Internal Engagement,0.4992536089668549,12
+syndication | facebook (Multimatch),Organic Social Referrals,0.4992536089668549,11
+email-oneoff-fund | int (Multimatch),Internal Engagement,0.49925360896685483,36
+ppc-nonbrand | bing (Multimatch),SEM (PPC),0.49925360896685483,35
+DivisionD,Display ,0.49925360896685483,10
+Outlook email message,Email/Newsletter,0.49925360896685483,10
+Referrals from www.costco.com,Unknown,0.49925360896685483,10
+Twitter Referral,Organic Social Referrals,0.49925360896685483,10
+bing (UTM),SEM (PPC),0.49925360896685483,10
+email-oa | int (Multimatch),Internal Engagement,0.49925360896685483,10
+search-main | adwords (Multimatch),SEM (PPC),0.49925360896685483,10
+social | facebook (Multimatch),Organic Social Referrals,0.49925360896685483,10
+social | instagram (Multimatch),Organic Social Referrals,0.49925360896685483,10
+LinkedIn Referral,Organic Social Referrals,0.49925360896685483,9
+Podcast Pilot Campaign,Unknown,0.49925360896685483,9
+Referrals from wallethacks-com.cdn.ampproject.org,Affiliates,0.49925360896685483,9
+Referrals from www.netaddress.com,Unknown,0.49925360896685483,9
+investorhighlights | int (Multimatch),Internal Engagement,0.49925360896685483,9
+linkedin (UTM),Paid Social,0.49925360896685483,9
+syndication | twitter (Multimatch),Organic Social Referrals,0.49925360896685483,9
+Referrals from accounts.youtube.com,Display ,0.49925360896685483,6
+Referrals from www-crowd101-com.cdn.ampproject.org,Affiliates,0.49925360896685483,6
+Referrals from www.dollarsprout.com,Affiliates,0.49925360896685483,6
+Referrals from www.fundthatflip.com,Tracked Referrals,0.49925360896685483,6
+Referrals from www.physiciansidegigs.com,Affiliates,0.49925360896685483,6
+email | mc (Multimatch),Email/Newsletter,0.49925360896685483,6
+email-matrix-oneoff | int (Multimatch),Internal Engagement,0.49925360896685483,6
+email-oneoff-holiday | int (Multimatch),Unknown,0.49925360896685483,6
+product_specific_retargeting-em120 | adroll (Multimatch),Display ,0.49925360896685483,6
+product_specific_retargeting-sreit | adroll (Multimatch),Display ,0.49925360896685483,6
+1to2invest | int (Multimatch),Internal Engagement,0.49925360896685483,5
+Referrals from fastlink.usaa.com,Unknown,0.49925360896685483,5
+Referrals from medium.com,Organic Social Referrals,0.49925360896685483,5
+Referrals from searchassist.verizon.com,Organic Search,0.49925360896685483,5
+Referrals from searchguide.windstream.net,Organic Search,0.49925360896685483,5
+Referrals from www.dcunited.com,Unknown,0.49925360896685483,5
+Referrals from www.merchantmaverick.com,Unknown,0.49925360896685483,5
+Slate - Amicus,Podcast,0.49925360896685483,5
+amp (UTM),Affiliates,0.49925360896685483,5
+email-one-off | int (Multimatch),Internal Engagement,0.49925360896685483,5
+ext | em-app (Multimatch),Unknown,0.49925360896685483,5
+gmail-oz | adwords (Multimatch),Display ,0.49925360896685483,5
+ppc-oz | adwords (Multimatch),SEM (PPC),0.49925360896685483,5
+AOL Search,Organic Search,0.49925360896685483,4
+Referrals from customerservice.costco.com,Unknown,0.49925360896685483,4
+Referrals from esimoney.com,Affiliates,0.49925360896685483,4
+Referrals from getpocket.com,Unknown,0.49925360896685483,4
+Referrals from thecollegeinvestor.com,Affiliates,0.49925360896685483,4
+Referrals from www.amazon.com,Tracked Referrals,0.49925360896685483,4
+content | whitepaper (Multimatch),Email/Newsletter,0.49925360896685483,4
+email-churn3-invest | int (Multimatch),Internal Engagement,0.49925360896685483,4
+email-one-off-oa | int (Multimatch),Unknown,0.49925360896685483,4
+facebook (UTM),Paid Social,0.49925360896685483,4
+ref | em-app (Multimatch),Unknown,0.49925360896685483,4
+social | twt (Multimatch),Organic Social Referrals,0.49925360896685483,4
+youtube-oz | youtube (Multimatch),Display ,0.49925360896685483,4
+12.19 | digilant (Multimatch),Display ,0.49925360896685483,3
+Referrals from caplans.com,Tracked Referrals,0.49925360896685483,3
+Referrals from investormint.com,Affiliates,0.49925360896685483,3
+Referrals from lastpass.com,Unknown,0.49925360896685483,3
+Referrals from millionairedoc.com,Affiliates,0.49925360896685483,3
+Referrals from www-marketwatch-com.cdn.ampproject.org,Tracked Referrals,0.49925360896685483,3
+Referrals from www.dvbowl.com,Unknown,0.49925360896685483,3
+Referrals from www.luckyorange.com,Unknown,0.49925360896685483,3
+display | facebook (Multimatch),Paid Social,0.49925360896685483,3
+email-podcast | int (Multimatch),Internal Engagement,0.49925360896685483,3
+paid-social | quora (Multimatch),Paid Social,0.49925360896685483,3
+partnership-announcement | alto (Multimatch),Unknown,0.49925360896685483,3
+product_specific_retargeting-trevian | adroll (Multimatch),Display ,0.49925360896685483,3
+Referrals from 87.webmasters.com,Unknown,0.49925360896685483,2
+Referrals from app.adroll.com,Display ,0.49925360896685483,2
+Referrals from en.m.wikipedia.org,Unknown,0.49925360896685483,2
+Referrals from en.wikipedia.org,Unknown,0.49925360896685483,2
+Referrals from my.clearme.com,Unknown,0.49925360896685483,2
+Referrals from schedule.lever.co,Unknown,0.49925360896685483,2
+Referrals from search.myway.com,Organic Search,0.49925360896685483,2
+Referrals from www.crowd101.com,Affiliates,0.49925360896685483,2
+Referrals from www.doughroller.net,Affiliates,0.49925360896685483,2
+Referrals from www.icloud.com,Unknown,0.49925360896685483,2
+Referrals from www.marketwatch.com,Unknown,0.49925360896685483,2
+Referrals from www.reddit.com,Organic Social Referrals,0.49925360896685483,2
+Referrals from www.ventureradar.com,Tracked Referrals,0.49925360896685483,2
+Slate - The Gist,Podcast,0.49925360896685483,2
+"TFN-passive real estate academy /peter kim, md",Unknown,0.49925360896685483,2
+TFN-pimd,Unknown,0.49925360896685483,2
+Unknown | creditdonkey (Multimatch),Affiliates,0.49925360896685483,2
+Unknown | twitter (Multimatch),Organic Social Referrals,0.49925360896685483,2
+adroll | adroll (Multimatch),Display ,0.49925360896685483,2
+blog | linkedin (Multimatch),Organic Social Referrals,0.49925360896685483,2
+carwash | int (Multimatch),Internal Engagement,0.49925360896685483,2
+content | blog (Multimatch),Content,0.49925360896685483,2
+cpc | bing (Multimatch),SEM (PPC),0.49925360896685483,2
+email-churn-journey | int (Multimatch),Internal Engagement,0.49925360896685483,2
+email-leads-oz | int (Multimatch),Internal Engagement,0.49925360896685483,2
+email-matrix-nnn | int (Multimatch),Internal Engagement,0.49925360896685483,2
+paid-social | facebook (Multimatch),Paid Social,0.49925360896685483,2
+partner | diversefi (Multimatch),Affiliates,0.49925360896685483,2
+prospect-investor | adroll (Multimatch),Display ,0.49925360896685483,2
+verifyregistration | int (Multimatch),Internal Engagement,0.49925360896685483,2
+wp | int (Multimatch),Internal Engagement,0.49925360896685483,2
+Outbrain,Affiliates,0.49925360896685483,1
+POF,Affiliates,0.49925360896685483,1
+Referrals from athletics.central.edu,Unknown,0.49925360896685483,1
+Referrals from connect.xfinity.com,Unknown,0.49925360896685483,1
+Referrals from dnserrorassist.att.net,Unknown,0.49925360896685483,1
+Referrals from email05.godaddy.com,Unknown,0.49925360896685483,1
+Referrals from email22.godaddy.com,Unknown,0.49925360896685483,1
+Referrals from forum.506investorgroup.com,Unknown,0.49925360896685483,1
+Referrals from login.microsoftonline.com,Unknown,0.49925360896685483,1
+Referrals from nreforum.org,Tracked Referrals,0.49925360896685483,1
+Referrals from r.srvtrck.com,Unknown,0.49925360896685483,1
+Referrals from unpuzzlefinance.com,Unknown,0.49925360896685483,1
+Referrals from webmail.centurylink.net,Unknown,0.49925360896685483,1
+Referrals from www.anntaylor.com,Unknown,0.49925360896685483,1
+Referrals from www.backchina.com,Unknown,0.49925360896685483,1
+Referrals from www.cnn.com,Unknown,0.49925360896685483,1
+Referrals from www.cretech.com,Tracked Referrals,0.49925360896685483,1
+Referrals from www.eventhubs.com,Unknown,0.49925360896685483,1
+Referrals from www.kayak.com,Tracked Referrals,0.49925360896685483,1
+Referrals from www.listenmoneymatters.com,Affiliates,0.49925360896685483,1
+TFN-altoira,Unknown,0.49925360896685483,1
+TFN-financial samurai,Unknown,0.49925360896685483,1
+TFN-nerdwallet comparison site,Unknown,0.49925360896685483,1
+TFN-passive income md link,Unknown,0.49925360896685483,1
+TFN-passiveincome md,Unknown,0.49925360896685483,1
+TFN-passiveincomemd,Unknown,0.49925360896685483,1
+api | alphaflow (Multimatch),Tracked Referrals,0.49925360896685483,1
+article | int (Multimatch),Internal Engagement,0.49925360896685483,1
+blog post | google sheet (Multimatch),Unknown,0.49925360896685483,1
+email-journey-churn | int (Multimatch),Internal Engagement,0.49925360896685483,1
+email-journey-qualify | int (Multimatch),Internal Engagement,0.49925360896685483,1
+email-mc-oneoff | int (Multimatch),Internal Engagement,0.49925360896685483,1
+email-one-off-deals | int (Multimatch),Internal Engagement,0.49925360896685483,1
+email-one-off-reengage | int (Multimatch),Internal Engagement,0.49925360896685483,1
+ppc-oz | bing (Multimatch),SEM (PPC),0.49925360896685483,1
+product_specific_retargeting-em118 | adroll (Multimatch),Display ,0.49925360896685483,1
+retarget-video | facebook (Multimatch),Paid Social,0.49925360896685483,1
+whitepaper | ozones (Multimatch),Email/Newsletter,0.49925360896685483,1
+email-journey-1-2 | int (Multimatch),Internal Engagement,0.4992536089668548,37
+Referrals from myemail.cox.net,Unknown,0.4992536089668548,8
+Referrals from wmq.etimspayments.com,Unknown,0.4992536089668548,8
+Referrals from www.biggerpockets.com,Organic Social Referrals,0.4992536089668548,8
+Referrals from www.biglawinvestor.com,Affiliates,0.4992536089668548,8
+email-one-off-leads | int (Multimatch),Internal Engagement,0.4992536089668548,8
+ppc-comp | adwords (Multimatch),SEM (PPC),0.4992536089668548,8
+quora (UTM),Organic Social Referrals,0.4992536089668548,8
+Referrals from l.workplace.com,Unknown,0.4992536089668548,7
+Referrals from www.equities.com,Tracked Referrals,0.4992536089668548,7
+retarget-convert | adroll (Multimatch),Display ,0.4992536089668548,7
+crm-churn | adroll (Multimatch),Display ,0.4992536089668547,38
+Referrals from app.intercom.io,Unknown,0.49925360896685467,40
+email-oneoff-columns | int (Multimatch),Internal Engagement,0.4992536089668546,41
+Referrals from www.moneyunder30.com,Affiliates,0.49925360896685456,44
+email-newsletter-multiple | int (Multimatch),Internal Engagement,0.49925360896685456,44
+ozones (UTM),UTM Programs,0.49925360896685456,44
+Bing Search,Organic Search,0.49925360896685456,43
+email-journey-activate | Unknown (Multimatch),Email/Newsletter,0.49925360896685456,43
+email-matrix | int (Multimatch),Internal Engagement,0.49925360896685456,43
+Gmail email message,Email/Newsletter,0.4992536089668545,45
+Referrals from www.retirebeforedad.com,Affiliates,0.4992536089668544,51
+email-oneoff-general | int (Multimatch),Internal Engagement,0.4992536089668544,50
+Referrals from home.personalcapital.com,Tracked Referrals,0.49925360896685433,52
+email-oneoff-ira | int (Multimatch),Internal Engagement,0.49925360896685433,52
+oneoff-update | int (Multimatch),Internal Engagement,0.49925360896685433,52
+Facebook Referral,Organic Social Referrals,0.4992536089668543,56
+email-oneoff-nnn | int (Multimatch),Internal Engagement,0.4992536089668542,66
+Referrals from wallethacks.com,Affiliates,0.4992536089668542,65
+prospect-display | quantcast,Display ,0.49925360896685417,67
+email;utm_campaign=oz;utm_content=faqvideo | int (Multimatch),Internal Engagement,0.4992536089668541,74
+Referrals from google,Unknown,0.49925360896685406,79
+native | adroll (Multimatch),Display ,0.49925360896685406,77
+adwords (UTM),SEM (PPC),0.499253608966854,82
+ppc | bing (Multimatch),SEM (PPC),0.49925360896685395,96
+multiple | int (Multimatch),Internal Engagement,0.49925360896685395,94
+one-off-highlights | int (Multimatch),Internal Engagement,0.49925360896685395,94
+email-weekly-feb | int (Multimatch),Internal Engagement,0.49925360896685395,91
+email-multiple-nov | int (Multimatch),Internal Engagement,0.49925360896685395,90
+Referrals from yieldtalk.com,Affiliates,0.4992536089668539,107
+email-oneoff-oz | int (Multimatch),Internal Engagement,0.4992536089668539,105
+Google Adwords Auto-Tag (gclid),SEM (PPC),0.4992536089668539,100
+Referrals from investorjunkie.com,Affiliates,0.49925360896685383,119
+int (UTM),Internal Engagement,0.49925360896685383,111
+email-weekly-jan | int (Multimatch),Internal Engagement,0.4992536089668538,130
+retarget-general | adroll (Multimatch),Display ,0.4992536089668537,139
+PIMD - best RECF,Unknown,0.49925360896685356,264
+ppc-brand | adwords (Multimatch),SEM (PPC),0.49925360896685356,253
+newsletter | int (Multimatch),Internal Engagement,0.49925360896685356,234
+display | adroll (Multimatch),Display ,0.4992536089668535,308
+email-one-off-update | int (Multimatch),Internal Engagement,0.49925360896685345,425
+Google Search,Organic Search,0.4992536089668534,982
+ppc | adwords (Multimatch),SEM (PPC),0.4992536089668534,740
+email | int (Multimatch),Internal Engagement,0.4992536089668534,713
+Referrals from passiveincomemd.com,PIMD,0.4889079021048554,83
+Referrals from www.whitecoatinvestor.com,Affiliates,0.4792696173015545,60
+Referrals from opportunitydb.com,Tracked Referrals,0.4765673678592934,15
+email-journey-activate | int (Multimatch),Internal Engagement,0.4761303842008832,94
+Yahoo Search,Organic Search,0.47515147569749633,29
+Referrals from www.investopedia.com,Impact,0.4700409176577769,4
+investing simple | impact (Multimatch),Impact,0.4700409176577769,4
+kansei incorporated | impact (Multimatch),Impact,0.4700409176577769,4
+webpals systems s.c. ltd. | impact (Multimatch),Impact,0.4700409176577769,3
+honey science corporation. | impact (Multimatch),Impact,0.4700409176577769,2
+Referrals from www.nerdwallet.com,Impact,0.4700409176577769,1
+dotdash | impact (Multimatch),Impact,0.4700409176577769,1
+webpals systems s. c ltd | impact (Multimatch),Impact,0.4700409176577769,1
+webpals systems | impact (Multimatch),Impact,0.4700409176577769,1
+yieldkit gmbh | impact (Multimatch),Impact,0.4700409176577769,1
+"the white coat investor, llc | impact (Multimatch)",Impact,0.4700409176577768,11
+"nerdwallet, inc | impact (Multimatch)",Impact,0.4700409176577766,25
+Referrals from www.altoira.com,Unknown,0.44932279042144313,2
+Referrals from calendly.com,Unknown,0.4492568982513642,2
